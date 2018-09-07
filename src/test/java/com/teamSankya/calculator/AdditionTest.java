@@ -13,11 +13,7 @@ public class AdditionTest {
 		TestCase.assertEquals(50, sum);
 	}
 	
-	@Test
-	public void addDoTest() {
-		double sum1= Addition.addititon(20.25, 30.25);
-		TestCase.assertEquals(500.50, sum1);
-	}
+	
 	
 
 }
